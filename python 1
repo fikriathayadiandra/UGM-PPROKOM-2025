@@ -1,3 +1,0 @@
-hari = 1
-if(hari==1):
-    print('hari senin')
